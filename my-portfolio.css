@@ -1,0 +1,78 @@
+body{
+    
+    background: linear-gradient(90deg, rgb(193, 247, 230) 0%, rgba(0, 201, 255, 1) 42%, rgba(206,243,251,1) 100%);
+}
+h1{
+      font-family: "Edu AU VIC WA NT Pre", cursive;
+      font-size: 22px;
+      margin-left: 150px;
+}
+header{
+    border-radius: 10px;
+}
+.navigation button{
+    border-bottom-left-radius: 7px;
+    border-bottom-right-radius: 7px;
+    border-width: 1px;
+    width: 100px;
+    background-color: transparent;
+    border-color: transparent;
+    box-shadow: transparent;
+}
+.navigation{
+    text-align: left;
+    vertical-align: top;
+
+
+}
+.footer{
+   position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: NONE;
+   color: rgb(0, 0, 0);
+   text-align: center;
+    font-family: "Antic Slab", serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 7px;
+  
+}
+p{
+    font-size: small;
+}
+#info{
+    bottom: 50px;
+}
+.myname {
+        font-family: "Antic Slab", serif;
+        font-size: 75px;
+        margin-left: 150px;
+        position: static;
+}
+.myrole{
+  font-family: "Playwrite DK Uloopet", cursive;
+  font-optical-sizing: auto;
+  margin-left: 170px;
+  bottom: 70px;
+  position: relative;
+}
+.hello{
+    font-family: "Playwrite DK Uloopet", cursive;
+    font-optical-sizing: auto;
+    position: relative;
+    top: 80px;
+    margin-left: 130px;
+}
+.bio{
+    width: 600px;
+    margin-left: 150px;
+    position: relative;
+    bottom: 60px;
+  font-family: "Dancing Script", serif;
+  font-optical-sizing: auto;
+  font-size: 20px;
+}
+
+
